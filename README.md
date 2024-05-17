@@ -1,4 +1,8 @@
 # BCI Emotions Detection Project
+  <div style="text-align: center;">
+    <img src="https://i.ibb.co/JFkcBgG/Emotion.jpg" width="500" alt="Emotions Detection">
+</div>
+
 
 ## Overview
 Welcome to the BCI Emotions Detection Project! This project utilizes EEG data from the Muse headband to classify emotions and convey the detected emotions using a servo motor with an arrow pointing at a plate displaying the emotions. This README provides an overview of the project, including the data acquisition, feature extraction, machine learning models, and hardware implementation.
@@ -80,10 +84,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-For more information or inquiries, please contact the EmotionsClassifier Team:
-- Mohamed Elsayed Ali
+For more information or inquiries, please make an issue, Team:
 - Mohamed Elsayed Eid
+- Mohamed Elsayed Ali
 - Mariam Ahmed
 - Mahmoud Magdy
-- Mohamed Sayed
-- Mosilhy
+- Mohamed Sayed Mosilhy
+
